@@ -1,0 +1,9 @@
+cars.csv
+mlflow.db
+mlruns/
+model.pkl
+predictions.csv
+.git
+.dvc
+*.dvc
+__pycache__/
